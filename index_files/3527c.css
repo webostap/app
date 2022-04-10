@@ -22395,7 +22395,8 @@ input,textarea,button {
 
 .btn_white {
     background: #fff;
-    color: #7b94cc;}
+    color: #8096cc;
+}
 
 .btn_white:after {
     background: #111
